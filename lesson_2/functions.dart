@@ -43,7 +43,6 @@
 
 /**
  * void execute(Function callback){
- *
+ *callback();
+ * }
  * */
-
-
